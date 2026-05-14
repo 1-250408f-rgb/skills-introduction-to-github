@@ -1,1 +1,1 @@
-This is my introduction to github
+This is my introduction to GitHub
